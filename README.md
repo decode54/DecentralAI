@@ -114,9 +114,10 @@ DecentralAI (DCAI) is a decentralized ecosystem combining **artificial intellige
 ---
 
 
-## 📞 Contact  
-- **GitHub**: [github.com/decentralai](https://github.com/decode54/decentralai )  
-- **Tonscan**: [tonscan.org](https://tonscan.org/ )  
+# 📞 Contact  
+- **GitHub**: [github.com/decentralai](https://github.com/decentralai)  
+- **Tonscan**: [tonscan.org](https://tonscan.org)  
+- **Telegram**: [DecentralAIBot](https://t.me/DecentralAIBot)
 
 ---  
 *Last updated: May 10, 2025*  
