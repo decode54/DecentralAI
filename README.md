@@ -4,6 +4,8 @@
 
 ![DecentralAI Logo]([https://raw.githubusercontent.com/decentralai/assets/main/logo-dcai.png](https://raw.githubusercontent.com/decode54/DecentralAI/refs/heads/main/logos/logo3d.png) )  
 
+![DecentralAIBot]([[@DecentralAIBot](https://t.me/DecentralAIBot)))
+
 DecentralAI (DCAI) is a decentralized ecosystem combining **artificial intelligence (AI)**, **blockchain**, and **DeFi** to empower developers, businesses, and users. It provides tools for creating AI agents, a crypto banking platform, and scalable computational infrastructure built on the **TON blockchain** [[1]].  
 
 ---
